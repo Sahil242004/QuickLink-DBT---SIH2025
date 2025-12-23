@@ -35,7 +35,7 @@ This project was developed as part of **Smart India Hackathon (SIH) 2025 Grand F
 - [Key Highlights](#-key-highlights)
 - [Tech Stack](#-tech-stack-indicative)
 - [Future Scope](#-future-scope)
-- [Screenshots](#-screenshots)
+- [Screenshots](#screenshots)
   <!-- - [IVR Audio Samples](#-ivr-audio-samples) -->
   <!-- - [Hackathon Context](#-hackathon-context) -->
 
